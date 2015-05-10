@@ -1,0 +1,5 @@
+SyntaxError: (irb):2: syntax error, unexpected ')', expecting '}'
+  from /usr/local/rvm/rubies/ruby-2.0.0-rc2/bin/irb:16:in `<main>'
+
+This message lets us know that the interpreter was expecting to see a '}' but instead saw a ')'.  We're informed of the ruby in use and the method and line number where the error occurred.
+
