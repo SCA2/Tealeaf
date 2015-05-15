@@ -1,0 +1,19 @@
+You run the following code...
+
+names = ['bob', 'joe', 'susan', 'margaret']
+names['margaret'] = 'jody'
+
+...and get the following error message:
+
+TypeError: no implicit conversion of String into Integer
+  from (irb):2:in `[]='
+  from (irb):2
+  from /Users/username/.rvm/rubies/ruby-2.0.0-p353/bin/irb:12:in `<main>'
+
+What is the problem and how can it be fixed?
+
+Ruby can't convert the string 'margaret' into the integer required to index into array 'names'.  One way to get the statement to work is to write
+
+names[names.index('margaret')] = 'jody'
+
+after which names = ["bob", "joe", "susan", "jody"]
