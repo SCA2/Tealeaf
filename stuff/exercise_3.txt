@@ -1,0 +1,3 @@
+What is exception handling and what problem does it solve?
+
+Exception handling provides a mechanism to deal with unexpected events during program execution.  Exceptions occurring within a specific block of code can be captured and handled appropriately without forcing the program to terminate or allowing it to cause further problems.
