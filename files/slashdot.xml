@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">
+
+<channel rdf:about="http://slashdot.org/">
+<title>Slashdot</title>
+<link>http://slashdot.org/</link>
+<description>News for nerds, stuff that matters</description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright 1997-2015, DHI Group Inc. All Rights Reserved. Slashdot is a DHI service</dc:rights>
+<dc:date>2015-05-16T05:17:15+00:00</dc:date>
+<dc:publisher>Dice</dc:publisher>
+<dc:creator>help@slashdot.org</dc:creator>
+<dc:subject>Technology</dc:subject>
+<syn:updateBase>1970-01-01T00:00+00:00</syn:updateBase>
+<syn:updateFrequency>1</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://politics.slashdot.org/story/15/05/16/0028230/house-science-committee-approves-changes-to-space-law?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://science.slashdot.org/story/15/05/16/0020227/planetary-society-wants-to-launch-a-crowd-funded-solar-sail?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://hardware.slashdot.org/story/15/05/15/238252/a-look-at-gta-v-pc-performance-and-image-quality-at-4k?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://yro.slashdot.org/story/15/05/15/232211/dzhokhar-tsarnaev-gets-death-penalty-in-boston-marathon-bombing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://ask.slashdot.org/story/15/05/15/2118224/ask-slashdot-whats-on-your-keychain?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://hardware.slashdot.org/story/15/05/15/1947238/mechanical-clicky-keyboards-still-have-followers-video?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://tech.slashdot.org/story/15/05/15/1924238/oculus-rift-hardware-requirements-revealed-linux-and-os-x-development-halted?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://news.slashdot.org/story/15/05/15/1843206/the-solution-to-argentinas-banking-problems-is-to-go-cashless?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://news.slashdot.org/story/15/05/15/1826212/larson-b-ice-shelf-in-antarctica-to-disintegrate-within-5-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://developers.slashdot.org/story/15/05/15/1733204/rust-10-released?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://it.slashdot.org/story/15/05/15/1725244/penn-state-yanks-engineering-network-from-internet-after-china-based-attack?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://hardware.slashdot.org/story/15/05/15/176247/here-comes-the-keurig-of-everything?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://developers.slashdot.org/story/15/05/15/1632246/menuetos-an-operating-system-written-entirely-in-assembly-hits-10?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://science.slashdot.org/story/15/05/15/1413218/biologists-create-self-healing-concrete?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://build.slashdot.org/story/15/05/15/1357240/turtle-receives-first-ever-3d-printed-titanium-jaw-implant-of-its-kind?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+ </rdf:Seq>
+</items>
+<image rdf:resource="http://a.fsdn.com/sd/topics/topicslashdot.gif" />
+<textinput rdf:resource="http://slashdot.org/search.pl" />
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rdf+xml" href="http://rss.slashdot.org/Slashdot/slashdot" /><feedburner:info uri="slashdot/slashdot" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /></channel>
+<image rdf:about="http://a.fsdn.com/sd/topics/topicslashdot.gif">
+<title>Slashdot</title>
+<url>http://a.fsdn.com/sd/topics/topicslashdot.gif</url>
+<link>http://slashdot.org/</link>
+</image>
+<item rdf:about="http://politics.slashdot.org/story/15/05/16/0028230/house-science-committee-approves-changes-to-space-law?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>House Science Committee Approves Changes To Space Law</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/CR3LBuG5u9o/house-science-committee-approves-changes-to-space-law</link>
+<description>schwit1 writes: In a series of party line votes, the House Science Committee has approved a number of changes to the laws that govern the private commercial space industry. Almost all of the changes were advocated by the industry itself, so in general they move to ease the regulatory and liability burdens that has been hampering the industry since the 2004 revisions to space law. While it is very unlikely commercial space can ever get free of strong federal regulation, these changes indicate that they can eventually get some of the worst regulations eased.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=House+Science+Committee+Approves+Changes+To+Space+Law%3A+http%3A%2F%2Fbit.ly%2F1L8jN6w"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fpolitics.slashdot.org%2Fstory%2F15%2F05%2F16%2F0028230%2Fhouse-science-committee-approves-changes-to-space-law%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://politics.slashdot.org/story/15/05/16/0028230/house-science-committee-approves-changes-to-space-law?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://politics.slashdot.org/story/15/05/16/0028230/house-science-committee-approves-changes-to-space-law?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7422921&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/CR3LBuG5u9o" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-05-16T03:40:00+00:00</dc:date>
+<dc:subject>government</dc:subject>
+<slash:department>wildcat-days</slash:department>
+<slash:section>politics</slash:section>
+<slash:comments>19</slash:comments>
+<slash:hit_parade>19,19,14,11,1,0,0</slash:hit_parade>
+<feedburner:origLink>http://politics.slashdot.org/story/15/05/16/0028230/house-science-committee-approves-changes-to-space-law?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://science.slashdot.org/story/15/05/16/0020227/planetary-society-wants-to-launch-a-crowd-funded-solar-sail?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title> Planetary Society Wants To Launch a Crowd-Funded Solar Sail</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/59zTcOry4C0/planetary-society-wants-to-launch-a-crowd-funded-solar-sail</link>
+<description>jan_jes writes to note that The Planetary Society is attempting to crowdfund its own version of the light-powered space-craft popularized by Carl Saga as a "solar sailer." (YouTube video, with the Society's CEO Bill Nye.)
+
+The current model is a CubeSat no bigger than a breadbox with four sails. If the team manages to raise enough money, LightSail will be sent to orbit aboard a SpaceX Falcon Heavy rocket in 2016. LightSail will be released into an orbit with an altitude of 720 kilometers (450 miles), high enough to escape most of the planet's atmospheric drag.
+
+Their crowdfunding goal has been far surpassed (more than $476,000 at this writing), but more can't hurt; maybe NASA could use some of the surplus.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=+Planetary+Society+Wants+To+Launch+a+Crowd-Funded+Solar+Sail%3A+http%3A%2F%2Fbit.ly%2F1e6e8TT"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fscience.slashdot.org%2Fstory%2F15%2F05%2F16%2F0020227%2Fplanetary-society-wants-to-launch-a-crowd-funded-solar-sail%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://science.slashdot.org/story/15/05/16/0020227/planetary-society-wants-to-launch-a-crowd-funded-solar-sail?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://science.slashdot.org/story/15/05/16/0020227/planetary-society-wants-to-launch-a-crowd-funded-solar-sail?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7422909&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/59zTcOry4C0" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-05-16T00:59:00+00:00</dc:date>
+<dc:subject>space</dc:subject>
+<slash:department>unfurling</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>30</slash:comments>
+<slash:hit_parade>30,27,22,11,3,2,0</slash:hit_parade>
+<feedburner:origLink>http://science.slashdot.org/story/15/05/16/0020227/planetary-society-wants-to-launch-a-crowd-funded-solar-sail?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://hardware.slashdot.org/story/15/05/15/238252/a-look-at-gta-v-pc-performance-and-image-quality-at-4k?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>A Look At GTA V PC Performance and Image Quality At 4K</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/iKQLeQ-kpPM/a-look-at-gta-v-pc-performance-and-image-quality-at-4k</link>
+<description>MojoKid writes: Rockstar's Grand Theft Auto series has been wildly successful for many years now, offering some of the edgiest story lines, game play tactics and objectives the gaming industry has ever seen. With psychopathic main characters, you are left in the depraved communities of Los Santos and Blaine County, to walk a path few would dare choose in real life. And it's rather entertaining of course, that you're tasked with leaving a virtual world worse off than you found it, consequences be damned. But what does it take to run GTA V at 4K (3840X2160) resolution? This article takes a look at that, as well as how it scales over multiple NVIDIA GeForce GTX 980 GPUs, along with some screen shots that look at image quality at Ultra HD resolution. It's safe to say one strong, high-end GPU will get the job done, but two in SLI or CrossFire are better of course, if you want to max out all IQ settings.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=A+Look+At+GTA+V+PC+Performance+and+Image+Quality+At+4K%3A+http%3A%2F%2Fbit.ly%2F1QQlLM7"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fhardware.slashdot.org%2Fstory%2F15%2F05%2F15%2F238252%2Fa-look-at-gta-v-pc-performance-and-image-quality-at-4k%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://hardware.slashdot.org/story/15/05/15/238252/a-look-at-gta-v-pc-performance-and-image-quality-at-4k?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://hardware.slashdot.org/story/15/05/15/238252/a-look-at-gta-v-pc-performance-and-image-quality-at-4k?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7422815&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/iKQLeQ-kpPM" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-05-15T23:41:00+00:00</dc:date>
+<dc:subject>graphics</dc:subject>
+<slash:department>so-you're-saying-more-is-better</slash:department>
+<slash:section>hardware</slash:section>
+<slash:comments>29</slash:comments>
+<slash:hit_parade>29,28,15,14,3,2,2</slash:hit_parade>
+<feedburner:origLink>http://hardware.slashdot.org/story/15/05/15/238252/a-look-at-gta-v-pc-performance-and-image-quality-at-4k?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://yro.slashdot.org/story/15/05/15/232211/dzhokhar-tsarnaev-gets-death-penalty-in-boston-marathon-bombing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Dzhokhar Tsarnaev Gets Death Penalty In Boston Marathon Bombing</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/2MLs9HFyzWI/dzhokhar-tsarnaev-gets-death-penalty-in-boston-marathon-bombing</link>
+<description>mpicpp writes with a link to the New York Times's version of story that a Boston jury earlier today returned a verdict of death in the Boston Marathon bombing. From that report: A federal jury on Friday condemned Dzhokhar Tsarnaev, a failed college student, to death for setting off bombs at the 2013 Boston Marathon that killed three people and injured hundreds more in the worst terrorist attack on American soil since Sept. 11, 2001. The jury of seven women and five men, which last month convicted Mr. Tsarnaev, 21, of all 30 charges against him, 17 of which carry the death penalty, took more than 14 hours to reach its decision. It was the first time a federal jury had sentenced a terrorist to death in the post-Sept. 11 era, according to Kevin McNally, director of the Federal Death Penalty Resource Counsel Project, which coordinates the defense in capital punishment cases.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Dzhokhar+Tsarnaev+Gets+Death+Penalty+In+Boston+Marathon+Bombing%3A+http%3A%2F%2Fbit.ly%2F1Fj8GXI"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fyro.slashdot.org%2Fstory%2F15%2F05%2F15%2F232211%2Fdzhokhar-tsarnaev-gets-death-penalty-in-boston-marathon-bombing%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://yro.slashdot.org/story/15/05/15/232211/dzhokhar-tsarnaev-gets-death-penalty-in-boston-marathon-bombing?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://yro.slashdot.org/story/15/05/15/232211/dzhokhar-tsarnaev-gets-death-penalty-in-boston-marathon-bombing?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7422789&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/2MLs9HFyzWI" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-05-15T22:59:00+00:00</dc:date>
+<dc:subject>crime</dc:subject>
+<slash:department>what-say-ye?</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>306</slash:comments>
+<slash:hit_parade>306,298,191,163,32,19,10</slash:hit_parade>
+<feedburner:origLink>http://yro.slashdot.org/story/15/05/15/232211/dzhokhar-tsarnaev-gets-death-penalty-in-boston-marathon-bombing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://ask.slashdot.org/story/15/05/15/2118224/ask-slashdot-whats-on-your-keychain?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Ask Slashdot: What's On Your Keychain?</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/UWFErIzskDw/ask-slashdot-whats-on-your-keychain</link>
+<description>kuhnto writes: I was playing with my key chain and started to wonder: what does everyone on Slashdot have on their key chains? What cool things do you have that you want to share? I'll start: car key, car alarm dongle, house key, Kingston USB Drive, AAA micro flashlight, and a Swiss-tech Utili-key.
+To extend this a bit: what other things do you usually carry around with you, aside from the common items like phones, keyrings, and card/cash holders?&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Ask+Slashdot%3A+What's+On+Your+Keychain%3F%3A+http%3A%2F%2Fbit.ly%2F1IDettS"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fask.slashdot.org%2Fstory%2F15%2F05%2F15%2F2118224%2Fask-slashdot-whats-on-your-keychain%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://ask.slashdot.org/story/15/05/15/2118224/ask-slashdot-whats-on-your-keychain?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://ask.slashdot.org/story/15/05/15/2118224/ask-slashdot-whats-on-your-keychain?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7422667&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/UWFErIzskDw" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-05-15T22:15:00+00:00</dc:date>
+<dc:subject>technology</dc:subject>
+<slash:department>seventeen-carabiners-and-a-blockbuster-video-minicard</slash:department>
+<slash:section>askslashdot</slash:section>
+<slash:comments>188</slash:comments>
+<slash:hit_parade>188,188,141,111,16,7,3</slash:hit_parade>
+<feedburner:origLink>http://ask.slashdot.org/story/15/05/15/2118224/ask-slashdot-whats-on-your-keychain?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://hardware.slashdot.org/story/15/05/15/1947238/mechanical-clicky-keyboards-still-have-followers-video?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Mechanical 'Clicky' Keyboards Still Have Followers (Video)</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/dD6lF24mbUQ/mechanical-clicky-keyboards-still-have-followers-video</link>
+<description>For a good number of years, the sound of the old IBM or other mechanical keyboard clacking away was the sound of programmers (or writers) at work on their computers. Then, according to Edgar Matias, president and cofounder of the Matias Corporation, computer companies started using membrane switches and other cheaper ways to make keyboards, which made a lot of people mutter curse words under their breath as they beat their fingers against keys that had to go all the way to the bottom of their travel to work, unlike the good old mechanical keyboards we once knew and loved.
+ 
+Enter Edgar Matias, who started out making the half keyboard, which is like a chorded keyboard except that you can use your QWERTY typing skills with little modification -- assuming you or your boss has $595 (!) to lay out on a keyboard. But after that Edgar started making QWERTY and Dvorak keyboards for semi-competitive prices. FYI: No Slashdot person got a free keyboard (or extra money) for making this video, but I have a Matias keyboard, and in my opinion it's far better than the cheapie it replaced. A lot of other people seem to want "real" keyboards, too, which they buy from Matias or from other companies such as Unicomp, which makes keyboards just like the classic, heavily-loved IBM Model M. Again, I've owned a Unicomp keyboard (that I bought; it was not a giveaway) and it was excellent. Both companies put out quality products that are far easier on your hands and wrists than the $10 or $20 keyboards sold by big box electronics retailers.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Mechanical+'Clicky'+Keyboards+Still+Have+Followers+(Video)%3A+http%3A%2F%2Fbit.ly%2F1FdBAHx"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fhardware.slashdot.org%2Fstory%2F15%2F05%2F15%2F1947238%2Fmechanical-clicky-keyboards-still-have-followers-video%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://hardware.slashdot.org/story/15/05/15/1947238/mechanical-clicky-keyboards-still-have-followers-video?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://hardware.slashdot.org/story/15/05/15/1947238/mechanical-clicky-keyboards-still-have-followers-video?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7422485&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/dD6lF24mbUQ" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Roblimo</dc:creator>
+<dc:date>2015-05-15T21:34:00+00:00</dc:date>
+<dc:subject>inputdev</dc:subject>
+<slash:department>clack-clack-clack-the-keyboard-types-on-down-the-track</slash:department>
+<slash:section>hardware</slash:section>
+<slash:comments>84</slash:comments>
+<slash:hit_parade>84,83,67,57,12,3,0</slash:hit_parade>
+<feedburner:origLink>http://hardware.slashdot.org/story/15/05/15/1947238/mechanical-clicky-keyboards-still-have-followers-video?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://tech.slashdot.org/story/15/05/15/1924238/oculus-rift-hardware-requirements-revealed-linux-and-os-x-development-halted?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Oculus Rift Hardware Requirements Revealed, Linux and OS X Development Halted</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/249HbCuAzzk/oculus-rift-hardware-requirements-revealed-linux-and-os-x-development-halted</link>
+<description>An anonymous reader writes: Oculus has selected the baseline hardware requirements for running their Rift virtual reality headset. To no one's surprise, they're fairly steep: NVIDIA GTX 970 / AMD 290 equivalent or greater, Intel i5-4590 equivalent or greater, and 8GB+ RAM. It will also require at least two USB 3.0 ports and "HDMI 1.3 video output supporting a 297MHz clock via a direct output architecture." Oculus chief architect Atman Binstock explains: "On the raw rendering costs: a traditional 1080p game at 60Hz requires 124 million shaded pixels per second. In contrast, the Rift runs at 2160&amp;#215;1200 at 90Hz split over dual displays, consuming 233 million pixels per second. At the default eye-target scale, the Rift's rendering requirements go much higher: around 400 million shaded pixels per second. This means that by raw rendering costs alone, a VR game will require approximately 3x the GPU power of 1080p rendering." He also points out that PC graphics can afford a fluctuating frame rate &amp;mdash; it doesn't matter too much if it bounces between 30-60fps. The Rift has no such luxury, however. The last requirement is more onerous: WIndows 7 SP1 or newer. Binstock says their development for OS X and Linux has been "paused" so they can focus on delivering content for Windows. They have no timeline for going back to the less popular platforms.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Oculus+Rift+Hardware+Requirements+Revealed%2C+Linux+and+OS+X+Development+Halted%3A+http%3A%2F%2Fbit.ly%2F1L7IgZN"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftech.slashdot.org%2Fstory%2F15%2F05%2F15%2F1924238%2Foculus-rift-hardware-requirements-revealed-linux-and-os-x-development-halted%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://tech.slashdot.org/story/15/05/15/1924238/oculus-rift-hardware-requirements-revealed-linux-and-os-x-development-halted?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/15/05/15/1924238/oculus-rift-hardware-requirements-revealed-linux-and-os-x-development-halted?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7422433&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/249HbCuAzzk" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-05-15T20:46:00+00:00</dc:date>
+<dc:subject>graphics</dc:subject>
+<slash:department>sad-penguin</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>132</slash:comments>
+<slash:hit_parade>132,129,86,68,21,6,4</slash:hit_parade>
+<feedburner:origLink>http://tech.slashdot.org/story/15/05/15/1924238/oculus-rift-hardware-requirements-revealed-linux-and-os-x-development-halted?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://news.slashdot.org/story/15/05/15/1843206/the-solution-to-argentinas-banking-problems-is-to-go-cashless?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>The Solution To Argentina's Banking Problems Is To Go Cashless</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/7KFhF23n7I0/the-solution-to-argentinas-banking-problems-is-to-go-cashless</link>
+<description>dkatana writes: There is no way back for Argentinian people to trust their own currency. Several governments have used the "Peso/Dollar" exchange to dig into people's savings, reward their friends and limit the freedom of citizens to use other currencies. Short of Dollarizing the economy again, the only solution for the country is going cashless. People are desperate, and they're looking for alternatives such as mobile payments, Amazon gift cards and Bitcoin to store their savings away from government control. A digital currency could help curb black market exchanges, fight corruption and restore the country's image.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=The+Solution+To+Argentina's+Banking+Problems+Is+To+Go+Cashless%3A+http%3A%2F%2Fbit.ly%2F1Poq04e"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fnews.slashdot.org%2Fstory%2F15%2F05%2F15%2F1843206%2Fthe-solution-to-argentinas-banking-problems-is-to-go-cashless%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://news.slashdot.org/story/15/05/15/1843206/the-solution-to-argentinas-banking-problems-is-to-go-cashless?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://news.slashdot.org/story/15/05/15/1843206/the-solution-to-argentinas-banking-problems-is-to-go-cashless?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7422353&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/7KFhF23n7I0" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-05-15T20:04:00+00:00</dc:date>
+<dc:subject>money</dc:subject>
+<slash:department>why-would-you-carry-around-slips-of-paper-and-shards-of-metal-anyway</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>211</slash:comments>
+<slash:hit_parade>211,209,160,135,33,13,10</slash:hit_parade>
+<feedburner:origLink>http://news.slashdot.org/story/15/05/15/1843206/the-solution-to-argentinas-banking-problems-is-to-go-cashless?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://news.slashdot.org/story/15/05/15/1826212/larson-b-ice-shelf-in-antarctica-to-disintegrate-within-5-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Larson B Ice Shelf In Antarctica To Disintegrate Within 5 Years</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/6SB2qjHISNs/larson-b-ice-shelf-in-antarctica-to-disintegrate-within-5-years</link>
+<description>BarbaraHudson writes: A new study (abstract) from NASA scientists predicts an Antarctic ice shelf half the size of Rhode Island will disintegrate around 2020. The shelf has existed for roughly 10,000 years. "Ice shelves are the gatekeepers for glaciers flowing from Antarctica toward the ocean. Without them, glacial ice enters the ocean faster and accelerates the pace of global sea level rise." At its thickest point, the ice shelf remnant is a half kilometer tall, and spans approximately 1,600 square kilometers. "The glaciers' thicknesses and flow speeds changed only slightly in the first couple of years following the 2002 collapse, leading researchers to assume they remained stable. The new study revealed, however, that Leppard and Flask glaciers have thinned by 65-72 feet (20-22 meters) and accelerated considerably in the intervening years. The fastest-moving part of Flask Glacier had accelerated 36 percent by 2012 to a flow speed of 2,300 feet (700 meters) a year."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Larson+B+Ice+Shelf+In+Antarctica+To+Disintegrate+Within+5+Years%3A+http%3A%2F%2Fbit.ly%2F1Jlml2o"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fnews.slashdot.org%2Fstory%2F15%2F05%2F15%2F1826212%2Flarson-b-ice-shelf-in-antarctica-to-disintegrate-within-5-years%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://news.slashdot.org/story/15/05/15/1826212/larson-b-ice-shelf-in-antarctica-to-disintegrate-within-5-years?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://news.slashdot.org/story/15/05/15/1826212/larson-b-ice-shelf-in-antarctica-to-disintegrate-within-5-years?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7422313&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/6SB2qjHISNs" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-05-15T19:21:00+00:00</dc:date>
+<dc:subject>earth</dc:subject>
+<slash:department>grab-some-popcorn</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>183</slash:comments>
+<slash:hit_parade>183,179,107,85,23,9,5</slash:hit_parade>
+<feedburner:origLink>http://news.slashdot.org/story/15/05/15/1826212/larson-b-ice-shelf-in-antarctica-to-disintegrate-within-5-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://developers.slashdot.org/story/15/05/15/1733204/rust-10-released?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Rust 1.0 Released</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/IML8DyKQNyw/rust-10-released</link>
+<description>TopSpin writes: Rust 1.0 has arrived, and release parties in Paris, LA and San Francisco are taking place today. From the Rust Programming Language blog: "The current Rust language is the result of a lot of iteration and experimentation. The process has worked out well for us: Rust today is both simpler and more powerful than we originally thought would be possible. But all that experimentation also made it difficult to maintain projects written in Rust, since the language and standard library were constantly changing. The 1.0 release marks the end of that churn. This release is the official beginning of our commitment to stability, and as such it offers a firm foundation for building applications and libraries. From this point forward, breaking changes are largely out of scope (some minor caveats apply, such as compiler bugs)." You can read about specific changes in the changelog.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Rust+1.0+Released%3A+http%3A%2F%2Fbit.ly%2F1H7hug9"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdevelopers.slashdot.org%2Fstory%2F15%2F05%2F15%2F1733204%2Frust-10-released%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://developers.slashdot.org/story/15/05/15/1733204/rust-10-released?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://developers.slashdot.org/story/15/05/15/1733204/rust-10-released?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7422177&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/IML8DyKQNyw" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-05-15T18:40:00+00:00</dc:date>
+<dc:subject>programming</dc:subject>
+<slash:department>ironing-out-the-biggest-wrinkles</slash:department>
+<slash:section>developers</slash:section>
+<slash:comments>124</slash:comments>
+<slash:hit_parade>124,120,80,73,15,7,3</slash:hit_parade>
+<feedburner:origLink>http://developers.slashdot.org/story/15/05/15/1733204/rust-10-released?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://it.slashdot.org/story/15/05/15/1725244/penn-state-yanks-engineering-network-from-internet-after-china-based-attack?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Penn State Yanks Engineering Network From Internet After China-Based Attack</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/2T0YyqUBaZc/penn-state-yanks-engineering-network-from-internet-after-china-based-attack</link>
+<description>coondoggie writes: Penn State's College of Engineering has disconnected its network from the Internet in response to two sophisticated cyberattacks &amp;ndash; one from a what the university called a "threat actor based in China" &amp;ndash; in an attempt to recover all infected systems. The university said there was no indication that research data or personal information was stolen in the attacks, though usernames and passwords had been compromised.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Penn+State+Yanks+Engineering+Network+From+Internet+After+China-Based+Attack%3A+http%3A%2F%2Fbit.ly%2F1PoekP8"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fit.slashdot.org%2Fstory%2F15%2F05%2F15%2F1725244%2Fpenn-state-yanks-engineering-network-from-internet-after-china-based-attack%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://it.slashdot.org/story/15/05/15/1725244/penn-state-yanks-engineering-network-from-internet-after-china-based-attack?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://it.slashdot.org/story/15/05/15/1725244/penn-state-yanks-engineering-network-from-internet-after-china-based-attack?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7422139&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/2T0YyqUBaZc" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-05-15T17:58:00+00:00</dc:date>
+<dc:subject>china</dc:subject>
+<slash:department>another-day-another-breach</slash:department>
+<slash:section>it</slash:section>
+<slash:comments>93</slash:comments>
+<slash:hit_parade>93,86,42,31,14,3,1</slash:hit_parade>
+<feedburner:origLink>http://it.slashdot.org/story/15/05/15/1725244/penn-state-yanks-engineering-network-from-internet-after-china-based-attack?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://hardware.slashdot.org/story/15/05/15/176247/here-comes-the-keurig-of-everything?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Here Comes the Keurig of Everything</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/139gjDY72RA/here-comes-the-keurig-of-everything</link>
+<description>Tekla Perry writes: Keurig made a huge business out of single-serving coffee machines. Now, as more complex machinery shrinks in size and cost, many companies are trying to duplicate that success for other types of food and drink. Startups are introducing the Keurig of cocktails, the Keurig of Jell-O shots, and the Keurig of dinner (it makes stir fries, stews, and risottos). The question is: does having a single- or limited-purpose device make really make sense for consumables that aren't coffee? Counter space is not infinite, and most people want more variety out of their lunches, dinners, and nightcaps than they do for their morning pick-me-up. (Also, let's retire this metaphor before we get a Keurig for cats.)&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Here+Comes+the+Keurig+of+Everything%3A+http%3A%2F%2Fbit.ly%2F1KS6u9O"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fhardware.slashdot.org%2Fstory%2F15%2F05%2F15%2F176247%2Fhere-comes-the-keurig-of-everything%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://hardware.slashdot.org/story/15/05/15/176247/here-comes-the-keurig-of-everything?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://hardware.slashdot.org/story/15/05/15/176247/here-comes-the-keurig-of-everything?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7422087&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/139gjDY72RA" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-05-15T17:16:00+00:00</dc:date>
+<dc:subject>business</dc:subject>
+<slash:department>for-the-lazy-people-who-only-eat-4-things</slash:department>
+<slash:section>hardware</slash:section>
+<slash:comments>245</slash:comments>
+<slash:hit_parade>245,243,186,161,39,13,8</slash:hit_parade>
+<feedburner:origLink>http://hardware.slashdot.org/story/15/05/15/176247/here-comes-the-keurig-of-everything?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://developers.slashdot.org/story/15/05/15/1632246/menuetos-an-operating-system-written-entirely-in-assembly-hits-10?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>MenuetOS, an Operating System Written Entirely In Assembly, Hits 1.0</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/-O8UDoVk4wM/menuetos-an-operating-system-written-entirely-in-assembly-hits-10</link>
+<description>angry tapir writes: MenuetOS, a GUI-toting, x86-based operating system written entirely in assembly language that's super-fast and can fit on a floppy disk, has hit version 1.0 &amp;mdash; after almost a decade and a half of development. (And yes, it can run Doom). The developers say it's stable on all hardware with which they've tested it. In this article, they talk about what MenuetOS can do, and what they plan for the future. "For version 2.0 we'll mostly keep improving different application classes, which are already present in 1.00. For example, more options for configuring the GUI and improving the HTTP client. The kernel is already working well, so now we have more time to focus on driver and application side."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=MenuetOS%2C+an+Operating+System+Written+Entirely+In+Assembly%2C+Hits+1.0%3A+http%3A%2F%2Fbit.ly%2F1IFx4E8"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdevelopers.slashdot.org%2Fstory%2F15%2F05%2F15%2F1632246%2Fmenuetos-an-operating-system-written-entirely-in-assembly-hits-10%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://developers.slashdot.org/story/15/05/15/1632246/menuetos-an-operating-system-written-entirely-in-assembly-hits-10?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://developers.slashdot.org/story/15/05/15/1632246/menuetos-an-operating-system-written-entirely-in-assembly-hits-10?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7421923&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/-O8UDoVk4wM" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-05-15T16:34:00+00:00</dc:date>
+<dc:subject>os</dc:subject>
+<slash:department>done-until-it's-more-done</slash:department>
+<slash:section>developers</slash:section>
+<slash:comments>308</slash:comments>
+<slash:hit_parade>308,302,197,156,53,31,23</slash:hit_parade>
+<feedburner:origLink>http://developers.slashdot.org/story/15/05/15/1632246/menuetos-an-operating-system-written-entirely-in-assembly-hits-10?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://science.slashdot.org/story/15/05/15/1413218/biologists-create-self-healing-concrete?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Biologists Create Self-Healing Concrete</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/91aiy8UDzOM/biologists-create-self-healing-concrete</link>
+<description>Mr.Intel writes: A team of microbiologists from the Delft University of Technology claims to have invented "bioconcrete" &amp;mdash; concrete that heals cracks and breaks using bacteria. The goal was to find a type of bacteria that could live inside concrete and also produce small amount of limestone that could re-seal cracks. This is a difficult prospect because concrete is quite dry and strongly alkaline. The bacteria needed to be able to stay alive for years in those conditions before being activated by water. The bacteria also need a food source &amp;mdash; simply adding sugar to concrete will make it weak. The scientists used calcium lactate instead, adding biodegradable capsules of it to the concrete mix. "When cracks eventually begin to form in the concrete, water enters and open the capsules. The bacteria then germinate, multiply and feed on the lactate, and in doing so they combine the calcium with carbonate ions to form calcite, or limestone, which closes up the cracks."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Biologists+Create+Self-Healing+Concrete%3A+http%3A%2F%2Fbit.ly%2F1JkOGG7"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fscience.slashdot.org%2Fstory%2F15%2F05%2F15%2F1413218%2Fbiologists-create-self-healing-concrete%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://science.slashdot.org/story/15/05/15/1413218/biologists-create-self-healing-concrete?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://science.slashdot.org/story/15/05/15/1413218/biologists-create-self-healing-concrete?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7421471&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/91aiy8UDzOM" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-05-15T15:48:00+00:00</dc:date>
+<dc:subject>biotech</dc:subject>
+<slash:department>building-borg-golems</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>79</slash:comments>
+<slash:hit_parade>79,77,56,46,23,12,9</slash:hit_parade>
+<feedburner:origLink>http://science.slashdot.org/story/15/05/15/1413218/biologists-create-self-healing-concrete?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://build.slashdot.org/story/15/05/15/1357240/turtle-receives-first-ever-3d-printed-titanium-jaw-implant-of-its-kind?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Turtle Receives First-Ever 3D Printed Titanium Jaw Implant of Its Kind</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/xZlXxXmpJb4/turtle-receives-first-ever-3d-printed-titanium-jaw-implant-of-its-kind</link>
+<description>ErnieKey writes: A wounded loggerhead turtle showed up in Turkey, with significant damage to its upper and lower jaws. It was taken to the Sea Turtle Research, Rescue and Rehabilitation Center at Pamukkale University (PAU) for help. The PAU team, working with BTech Innovation, was able to make a 3D printed titanium jaw implant for the turtle. The operation was a success, and the patient &amp;mdash; the world's first sea turtle to receive a 3D printed implant &amp;mdash; is recovering.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Turtle+Receives+First-Ever+3D+Printed+Titanium+Jaw+Implant+of+Its+Kind%3A+http%3A%2F%2Fbit.ly%2F1HhTYzL"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fbuild.slashdot.org%2Fstory%2F15%2F05%2F15%2F1357240%2Fturtle-receives-first-ever-3d-printed-titanium-jaw-implant-of-its-kind%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://build.slashdot.org/story/15/05/15/1357240/turtle-receives-first-ever-3d-printed-titanium-jaw-implant-of-its-kind?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://build.slashdot.org/story/15/05/15/1357240/turtle-receives-first-ever-3d-printed-titanium-jaw-implant-of-its-kind?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7421423&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/xZlXxXmpJb4" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-05-15T15:05:00+00:00</dc:date>
+<dc:subject>medicine</dc:subject>
+<slash:department>also-is-not-a-ninja</slash:department>
+<slash:section>build</slash:section>
+<slash:comments>67</slash:comments>
+<slash:hit_parade>67,63,44,33,14,5,3</slash:hit_parade>
+<feedburner:origLink>http://build.slashdot.org/story/15/05/15/1357240/turtle-receives-first-ever-3d-printed-titanium-jaw-implant-of-its-kind?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<textinput rdf:about="http://slashdot.org/search.pl">
+<title>Search Slashdot</title>
+<description>Search Slashdot stories</description>
+<name>query</name>
+<link>http://slashdot.org/search.pl</link>
+</textinput>
+</rdf:RDF>

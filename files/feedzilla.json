@@ -1,0 +1,16 @@
+{
+  "newspaper_name": "Cooking Today",
+  "issue_date": "November 15th, 2014",
+  "articles": [
+    {
+      "title": "Bacon Cooking",
+      "link": "http://baconcooklove.com",
+      "summary": "Just a few thousand ideas about bacon"
+    },
+    {
+      "title": "Cooking with leftovers",
+      "link": "http://love.com",
+      "summary": "Just a few thousand ideas about tasting love twice"
+    }
+  ]
+}
